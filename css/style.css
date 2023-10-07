@@ -1,0 +1,62 @@
+*{}
+
+a{
+    text-decoration: none;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.my_btn{
+    background: #000000;
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    border-radius: 9px;
+    padding: 15px 25px;
+}
+
+/* =============================== */
+
+#navber_part .navbar .container .navbar-brand img{
+    width: 194px;
+}
+
+#navber_part .navbar .container .navbar-nav{
+    column-gap: 35px;
+}
+
+#navber_part .navbar .container .navbar-nav .nav-link {
+    font-size: 25px;
+    font-weight: 800px;
+}
+/* ============================================= */
+
+#carousel .carousel-item{
+}
+
+#carousel .carousel-item h2{
+    font-family: "Poppins";
+    font-size: 41px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+
+#carousel .carousel-item p{
+width: 488px;
+font-family: "Poppins";
+font-size: 18px;
+font-weight: 300;
+line-height: 35px;
+font-style: normal;
+text-align: left;
+color: #707070;
+display: block;
+}
+
+/* ============================ */
